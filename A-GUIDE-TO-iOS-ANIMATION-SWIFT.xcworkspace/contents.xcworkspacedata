@@ -2,6 +2,45 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:UIDynamicsDemo-Swift/UIDynamicsDemo-Swift.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:tvOSCardAnimation-Swift/tvOSCardAnimation-Swift.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SplashAnimiationDemo-Swift/SplashAnimiationDemo-Swift.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SnowEffectDemo-Swift/SnowEffectDemo-Swift.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ReplicatorLoaderDemo-Swift/ReplicatorLoaderDemo-Swift.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:PulseLoader-Swift/PulseLoader-Swift.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:KYPingTransition-Swift/KYPingTransition-Swift.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:KYGooeyMenu-Swift/KYGooeyMenu-Swift.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:KYCuteView-Swift/KYCuteView-Swift.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:JumpStarDemo-Swift/JumpStarDemo-Swift.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:InteractiveCardDemo-Swift/InteractiveCardDemo-Swift.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:GooeySlideMenuDemo-Swift/GooeySlideMenuDemo-Swift.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:DynamicActionBlockDemo-Swift/DynamicActionBlockDemo-Swift.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:AnimatedCircleDemo-Swift/AnimatedCircleDemo-Swift.xcodeproj">
    </FileRef>
    <FileRef
