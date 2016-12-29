@@ -2,9 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:AnimatedCircleDemo-Swift/AnimatedCircleDemo-Swift.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:AnimatedCurveDemo-Swift/AnimatedCurveDemo-Swift.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:AnimatedCircleDemo-Swift/AnimatedCircleDemo-Swift.xcodeproj">
+      location = "group:DownloadButtonDemo-Swift/CADemos-Swift.xcodeproj">
    </FileRef>
 </Workspace>
